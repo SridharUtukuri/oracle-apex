@@ -160,7 +160,7 @@ Steps:
 3. Add a region
 4. Call the PL/SQL procedure `render_blog_list`
 
-![Apex Page](https://github.com/SridharUtukuri/oracle-apex/tree/main/oracle-pocs/hashnode-integration/hashnode_integration_apex_region.png)
+![Apex Page](https://github.com/SridharUtukuri/oracle-apex/blob/main/oracle-pocs/hashnode-integration/hashnode_integration_apex_region.png)
 
 After running the application, your Hashnode blog posts will appear in your Oracle APEX portfolio website.
 
@@ -172,7 +172,7 @@ My Oracle Apex Portfolio Website:
 
 My Hashnode Profile:
 
-![My Hashnode Profile](https://github.com/SridharUtukuri/oracle-apex/tree/main/oracle-pocs/hashnode-integration/hashnode_profile.png)
+![My Hashnode Profile](https://github.com/SridharUtukuri/oracle-apex/blob/main/oracle-pocs/hashnode-integration/hashnode_profile.png)
 
 
 ---
