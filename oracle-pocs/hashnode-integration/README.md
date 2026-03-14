@@ -158,8 +158,7 @@ Steps:
 1. Create a new APEX application
 2. Create a page
 3. Add a region
-4. Call the PL/SQL procedure `fetch_blog_json`
-5. Render the output using `render_blog_list`
+4. Call the PL/SQL procedure `render_blog_list`
 
 After running the application, your Hashnode blog posts will appear in your Oracle APEX website.
 
@@ -173,19 +172,7 @@ Example UI output:
 
 ---
 
-# Repository Files
-
-All files used in this example are available here:
-
-https://github.com/SridharUtukuri/oracle-apex/tree/8be24308822608af37d9f29d311849ebfb96657a/oracle-pocs/hashnode-integration
-
-This repository includes:
-
-- GraphQL query
-- cURL request
-- PL/SQL package
-- Oracle APEX sample application
-- Example UI screenshot
+All files used in this example are available here: [View Project Files](https://github.com/SridharUtukuri/oracle-apex/tree/8be24308822608af37d9f29d311849ebfb96657a/oracle-pocs/hashnode-integration)
 
 ---
 
