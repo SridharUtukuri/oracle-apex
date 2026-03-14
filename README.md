@@ -1,4 +1,4 @@
-# Oracle APEX – Learning, Experiments & Proof of Concepts
+# Oracle APEX - Learning, Experiments & Proof of Concepts
 
 ![Oracle](https://img.shields.io/badge/Oracle-Technology-red?logo=oracle)
 ![APEX](https://img.shields.io/badge/Oracle-APEX-orange)
