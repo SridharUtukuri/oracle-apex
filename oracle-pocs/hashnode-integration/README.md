@@ -168,7 +168,7 @@ After running the application, your Hashnode blog posts will appear in your Orac
 
 My Oracle Apex Portfolio Website:
 
-![My Oracl Apex Website](https://github.com/SridharUtukuri/oracle-apex/tree/main/oracle-pocs/hashnode-integration/hashnode_integration_app_ui.png)
+![My Oracl Apex Website](https://github.com/SridharUtukuri/oracle-apex/blob/main/oracle-pocs/hashnode-integration/hashnode_integration_app_ui.png)
 
 My Hashnode Profile:
 
