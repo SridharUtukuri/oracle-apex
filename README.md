@@ -40,9 +40,9 @@ This is primarily a personal learning repository, but suggestions and ideas are 
 ## Connect With Me
 If you'd like to discuss Oracle APEX, ideas, or improvements, feel free to connect.
 
----
 If you find something useful here, feel free to star the repository.
 
+---
 ## Disclaimer
 This blog reflects my **personal insights and experiences**, mainly around **Oracle Applications**.  
 All opinions are **my own** and **do not represent Oracle or any employer**.
