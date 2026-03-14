@@ -1,7 +1,7 @@
 
-# Display Your Hashnode Blogs in an Oracle APEX Website
-
 ![My Oracl Apex Website](https://github.com/SridharUtukuri/oracle-apex/blob/main/oracle-pocs/hashnode-integration/hashnode_integration_app_ui.png)
+
+# Display Your Hashnode Blogs in an Oracle APEX Website
 
 As an Oracle APEX developer, I wanted to show my Hashnode blogs directly on my portfolio website built using Oracle APEX.  
 
