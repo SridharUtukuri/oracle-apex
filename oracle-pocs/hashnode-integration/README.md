@@ -160,7 +160,7 @@ Steps:
 3. Add a region
 4. Call the PL/SQL procedure `render_blog_list`
 
-![](https://github.com/SridharUtukuri/oracle-apex/blob/e6aaab36618f658dc9bcecd30635e9a0775a8ad5/oracle-pocs/hashnode-integration/hashnode_integration_apex_region.png)
+![Apex Page](https://github.com/SridharUtukuri/oracle-apex/tree/main/oracle-pocs/hashnode-integration/hashnode_integration_apex_region.png)
 
 After running the application, your Hashnode blog posts will appear in your Oracle APEX portfolio website.
 
@@ -168,16 +168,16 @@ After running the application, your Hashnode blog posts will appear in your Orac
 
 My Oracle Apex Portfolio Website:
 
-![My Oracl Apex Website](https://raw.githubusercontent.com/SridharUtukuri/oracle-apex/66b19b79cf1cc9b1b25235fe1825938b649e95a8/oracle-pocs/hashnode-integration/hashnode_integration_app_ui.png)
+![My Oracl Apex Website](https://github.com/SridharUtukuri/oracle-apex/tree/main/oracle-pocs/hashnode-integration/hashnode_integration_app_ui.png)
 
 My Hashnode Profile:
 
-![My Hashnode Profile](https://github.com/SridharUtukuri/oracle-apex/blob/e6aaab36618f658dc9bcecd30635e9a0775a8ad5/oracle-pocs/hashnode-integration/hashnode_profile.png)
+![My Hashnode Profile](https://github.com/SridharUtukuri/oracle-apex/tree/main/oracle-pocs/hashnode-integration/hashnode_profile.png)
 
 
 ---
 
-All files used in this example are available here: [View Project Files](https://github.com/SridharUtukuri/oracle-apex/tree/36867643bf0f4817ad3520c1a10d722d3b345cc6/oracle-pocs/hashnode-integration)
+All files used in this example are available here: [View Project Files](https://github.com/SridharUtukuri/oracle-apex/tree/main/oracle-pocs/hashnode-integration)
 
 ---
 
