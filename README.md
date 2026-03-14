@@ -42,7 +42,7 @@ If you'd like to discuss Oracle APEX, ideas, or improvements, feel free to conne
 
 If you find something useful here, feel free to star the repository.
 
----
+
 ## Disclaimer
 This blog reflects my **personal insights and experiences**, mainly around **Oracle Applications**.  
 All opinions are **my own** and **do not represent Oracle or any employer**.
