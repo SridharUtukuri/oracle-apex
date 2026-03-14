@@ -169,7 +169,7 @@ After running the application, your Hashnode blog posts will appear in your Orac
 
 Example UI output:
 
-https://github.com/SridharUtukuri/oracle-apex/blob/66b19b79cf1cc9b1b25235fe1825938b649e95a8/oracle-pocs/hashnode-integration/hashnode_integration_app_ui.png
+![Hashnode Integration UI](https://raw.githubusercontent.com/SridharUtukuri/oracle-apex/66b19b79cf1cc9b1b25235fe1825938b649e95a8/oracle-pocs/hashnode-integration/hashnode_integration_app_ui.png)
 
 ---
 
