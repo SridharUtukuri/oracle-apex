@@ -5,7 +5,7 @@
 
 As an Oracle APEX developer, I wanted to show my Hashnode blogs directly on my portfolio website built using Oracle APEX.  
 
-In this guide, I explain how I used the **Hashnode GraphQL API** to fetch my blog posts and display them inside an Oracle APEX application.
+In this guide, I explain how I used the **Hashnode GraphQL API** to fetch my blog posts and display them inside an Oracle APEX Portfolio Website.
 
 The same approach can be used by anyone who wants to show their Hashnode articles on a personal website.
 
